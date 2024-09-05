@@ -32,7 +32,7 @@ def job():
 
 if __name__ == '__main__':
     # Agendar o post para todos os dias às 7 da manhã
-    schedule.every().day.at("07:00").do(job)
+    schedule.every().day.at("10:00").do(job)
 
     # Loop para manter o agendador rodando
     while True:
