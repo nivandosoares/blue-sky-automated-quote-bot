@@ -4,8 +4,10 @@ from atproto import Client, client_utils
 from serpapi import GoogleSearch
 import schedule
 import time
+from dotenv import load_dotenv
 
-
+# Carregar variáveis de ambiente do arquivo .env
+load_dotenv()
 API_KEY = os.getenv("SERPAPI_KEY")
 USERNAME = os.getenv("BLUESKY_USERNAME")
 PASSWORD = os.getenv("BLUESKY_PASSWORD")
