@@ -29,8 +29,7 @@ def get_team_and_news_info():
     search = GoogleSearch(API_PARAMS)
     results = search.get_dict()
 
-    print("Dados recebidos da API:", results)
-
+    
     sports_results = results.get("sports_results", {})
     title = sports_results.get("title", "No team info available")
     ranking = sports_results.get("rankings", "No ranking available")
@@ -125,4 +124,4 @@ def schedule_jobs():
         time.sleep(60)
 
 if __name__ == '__main__':
-    post_team_info_to_bluesky(Client())
+    job_post_team_info()
