@@ -16,18 +16,20 @@ PASSWORD = os.getenv("BLUESKY_PASSWORD")
 API_PARAMS = {
     "api_key": API_KEY,
     "engine": "google",
-    "q": "CR Vasco da Gama",
-    "location": "Brazil",
-    "google_domain": "google.com.br",
-    "device": "desktop",
-    "filter": "0"
+     "q": "CR vasco da gama",
+     "location": "Brazil",
+     "google_domain": "google.com.br",
+     "gl": "br",
+     "hl": "pt",
+     "no_cache": "true",
+     "device": "mobile"
 }
 
 def get_team_and_news_info():
     search = GoogleSearch(API_PARAMS)
     results = search.get_dict()
 
-#    print("Dados recebidos da API:", results)
+    print("Dados recebidos da API:", results)
 
     sports_results = results.get("sports_results", {})
     title = sports_results.get("title", "No team info available")
@@ -47,7 +49,7 @@ def get_team_and_news_info():
             "status": game.get("status", "Unknown Status"),
         }
         
-        if game_info["status"] == "FT":
+        if game_info["status"] == "FIM":
             previous_games.append(game_info)
         else:
             next_games.append(game_info)
@@ -59,19 +61,19 @@ def post_team_info_to_bluesky(client: Client):
 
     posts = []
 
-    post_text = f'⚽ **{title}**\n📈 **Classificação:** {ranking}'
+    post_text = f'⚽ {title}\n📈 Classificação: {ranking}'
     posts.append(post_text)
 
     if previous_games:
-        post_text = "📅 **Últimos jogos:**\n"
+        post_text = "📅 Últimos jogos:\n"
         for game in previous_games[:3]:
             post_text += f'{game["tournament"]}: {game["teams"]} - {game["date"]}\n'
         posts.append(post_text)
 
     if next_games:
-        post_text = "🔮 **Próximos jogos:**\n"
+        post_text = "📅 Próximos jogos:\n"
         for game in next_games[:3]:
-            post_text += f'{game["tournament"]}: {game["teams"]} - {game["date"]}\n'
+            post_text += f'{game["tournament"]}: {game["teams"]} - {game["date"]}\n\n'
         posts.append(post_text)
 
     rich_text = client_utils.TextBuilder()
@@ -80,7 +82,7 @@ def post_team_info_to_bluesky(client: Client):
         news_link = news.get("link")
         news_thumbnail = news.get("thumbnail")
         news_source_image = news.get("source_image")
-        rich_text.text('📰 **Última notícia:**\n').link(news_title, news_link)
+        rich_text.text('📰\n').link(news_title, news_link)
         if news_thumbnail:
             rich_text.image(news_thumbnail)
         if news_source_image:
@@ -121,4 +123,4 @@ def schedule_jobs():
         time.sleep(60)
 
 if __name__ == '__main__':
-  get_team_and_news_info()
+    post_team_info_to_bluesky(Client())
