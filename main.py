@@ -42,17 +42,19 @@ def get_team_and_news_info():
     previous_games, next_games = [], []
 
     for game in games:
-        game_info = {
-            "tournament": game.get("tournament", "Unknown Tournament"),
-            "teams": f'{game["teams"][0]["name"]} {game["teams"][0].get("score", "--")} x {game["teams"][1].get("score", "--")} {game["teams"][1]["name"]}',
-            "date": game.get("date", "Unknown Date"),
-            "status": game.get("status", "Unknown Status"),
-        }
-        
-        if game_info["status"] == "FIM":
-            previous_games.append(game_info)
-        else:
-            next_games.append(game_info)
+        teams = game.get("teams", [])
+        if len(teams) >= 2:
+            game_info = {
+                "tournament": game.get("tournament", "Unknown Tournament"),
+                "teams": f'{teams[0].get("name", "Unknown")} {teams[0].get("score", "--")} x {teams[1].get("score", "--")} {teams[1].get("name", "Unknown")}',
+                "date": game.get("date", "Unknown Date"),
+                "status": game.get("status", "Unknown Status"),
+            }
+
+            if game_info["status"].lower() == "fim":
+                previous_games.append(game_info)
+            else:
+                next_games.append(game_info)
 
     return title, ranking, previous_games, next_games, news
 
