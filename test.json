@@ -1,0 +1,654 @@
+{
+    "search_metadata": {
+      "id": "66dcc72f1a5b540303e432cb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/6cbbe38184d33cb9/66dcc72f1a5b540303e432cb.json",
+      "created_at": "2024-09-07 21:35:43 UTC",
+      "processed_at": "2024-09-07 21:35:43 UTC",
+      "google_url": "https://www.google.com/search?q=CR+vasco+da+gama&oq=CR+vasco+da+gama&hl=en&gl=us&filter=0&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/6cbbe38184d33cb9/66dcc72f1a5b540303e432cb.html",
+      "total_time_taken": 0.8
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "CR vasco da gama",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop",
+      "filter": "0"
+    },
+    "search_information": {
+      "query_displayed": "CR vasco da gama",
+      "total_results": 5540000,
+      "time_taken_displayed": 0.42,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "sports_results": {
+      "title": "CR Vasco da Gama",
+      "rankings": "8th in Série A",
+      "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c3c09e43a894913a8443b4775afee1ba26e292b778ea92626.png",
+      "games": [
+        {
+          "tournament": "Copa do Brasil",
+          "stage": "Quarter-final · Leg 2 of 2",
+          "venue": "Arena da Baixada",
+          "venue_kgmid": "/m/07bm4p",
+          "date": "Wed, Sep 11",
+          "time": "8:30 PM",
+          "teams": [
+            {
+              "name": "Athletico-PR",
+              "kgmid": "/m/019mgv",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad4beddc61b5eddcdaee8ddd2c37eac8daa56cee99aa39975c5e8d91929951a82c.png"
+            },
+            {
+              "name": "Vasco da Gama",
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad4beddc61b5eddcdaddfb067a12b762f80a9456e340a7bbcc600a716544709fc3.png"
+            }
+          ]
+        },
+        {
+          "tournament": "Campeonato Brasileiro Série A",
+          "venue": "Maracanã",
+          "venue_kgmid": "/m/01qv4y",
+          "date": "Sun, Sep 15",
+          "time": "5:30 PM",
+          "teams": [
+            {
+              "name": "Flamengo",
+              "kgmid": "/m/019lty",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad23b57f68e16cec020d58413b19dcb5445d604ed2f8778e4564e953eb5d73c005.png"
+            },
+            {
+              "name": "Vasco da Gama",
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad23b57f68e16cec02903f1d4040f218a25f2fbebdc845037d0f27799d69f43146.png"
+            }
+          ]
+        },
+        {
+          "tournament": "Campeonato Brasileiro Série A",
+          "venue": "Estádio Manoel Barradas",
+          "venue_kgmid": "/m/09xdfj",
+          "status": "FT",
+          "date": "Sun, Sep 1",
+          "video_highlights": {
+            "link": "https://www.youtube.com/watch?v=RYoJjIAyDOI&feature=onebox",
+            "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ada31777a2cc367e6c876894e8543f8fc47a8ec87a23441a53bfcc31beb6067598fb9e35ddebc82427.jpeg",
+            "duration": "11:24"
+          },
+          "teams": [
+            {
+              "name": "Vitória",
+              "score": "0",
+              "kgmid": "/m/019m8m",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ada517c301f60b96d666d3637532654de9227e5daf80b8e7abbf126fa5e0c3d538.png"
+            },
+            {
+              "name": "Vasco da Gama",
+              "score": "1",
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ada517c301f60b96d699e9150b8acf8043e14a4dcbda24379a15b285f131ae26c3.png"
+            }
+          ]
+        },
+        {
+          "tournament": "Copa do Brasil",
+          "stage": "Quarter-final · Leg 1 of 2",
+          "venue": "Estádio Club de Regatas Vasco da Gama",
+          "venue_kgmid": "/m/04bxgr",
+          "status": "FT",
+          "date": "Thu, Aug 29",
+          "teams": [
+            {
+              "name": "Vasco da Gama",
+              "score": "2",
+              "red_card": true,
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad306d945fc0f8c32a2ba1d4b9a86a2e2e4177d6b1a54d9584449758c96c25535f.png"
+            },
+            {
+              "name": "Athletico-PR",
+              "score": "1",
+              "red_card": true,
+              "kgmid": "/m/019mgv",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad306d945fc0f8c32a18a0c2fbcb94e06106b966dcb6261e236e3a4607984a639f.png"
+            }
+          ]
+        },
+        {
+          "tournament": "Campeonato Brasileiro Série A",
+          "venue": "Estádio Club de Regatas Vasco da Gama",
+          "venue_kgmid": "/m/04bxgr",
+          "status": "FT",
+          "date": "Mon, Aug 26",
+          "video_highlights": {
+            "link": "https://www.youtube.com/watch?v=FzY1fKKD2xE&feature=onebox",
+            "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8adea219e1e8bb3009904b20b9e4403126b6373750a571e38aa56d5a8cfd299877a73f7f0089e2ed217.jpeg",
+            "duration": "11:44"
+          },
+          "teams": [
+            {
+              "name": "Vasco da Gama",
+              "score": "2",
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8add6bae3caf50fd50d7c37dca674a2803409ff9f11c871abb2b348e2ad7cad4cda.png"
+            },
+            {
+              "name": "Athletico-PR",
+              "score": "1",
+              "red_card": true,
+              "kgmid": "/m/019mgv",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8add6bae3caf50fd50d40d54ab9a70d0c5756cbada8aa586c4545785a904e23afa5.png"
+            }
+          ]
+        },
+        {
+          "tournament": "Campeonato Brasileiro Série A",
+          "venue": "Estádio Heriberto Hülse",
+          "venue_kgmid": "/m/08v_2h",
+          "status": "FT",
+          "date": "Aug 18",
+          "video_highlights": {
+            "link": "https://www.youtube.com/watch?v=FWfk4Ij-GFs&feature=onebox",
+            "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad70f1ad31769ca58437ef5f299df1946652f8bedc871f3c677e3d42045aaf7b5623263c311b510881.jpeg",
+            "duration": "11:51"
+          },
+          "teams": [
+            {
+              "name": "Criciúma",
+              "score": "2",
+              "kgmid": "/m/05s3_3",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad33dd30954b7005e3a6b15410f79a92e49af12dc6abf9ee4578bf9877edb80648.png"
+            },
+            {
+              "name": "Vasco da Gama",
+              "score": "2",
+              "kgmid": "/m/019mcm",
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39d8cea568aec8ad33dd30954b7005e352ed77b439590d584e4f99e640f6ba819d27d3dc1e2306c4.png"
+            }
+          ]
+        }
+      ],
+      "league": {
+        "standings": [
+          {
+            "team": {
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39e014540d04f4493e5e6aac6823374cb7abf861a459ea2d3683065fe4556be6e1d5d2df67ce12a1e86464df460d597c.png",
+              "name": "São Paulo"
+            },
+            "pos": "6",
+            "mp": "25",
+            "w": "12",
+            "d": "5",
+            "l": "8",
+            "gf": "33",
+            "ga": "26",
+            "gd": "7",
+            "pts": "41",
+            "last_5": [
+              "win",
+              "win",
+              "loss",
+              "win",
+              "loss"
+            ]
+          },
+          {
+            "team": {
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39e014540d04f4493e5e6aac6823374cb7abf861a459ea2d6e12189e22d012ae99d6be318e01bba28b2588801ef5bb2d.png",
+              "name": "Bahia"
+            },
+            "pos": "7",
+            "mp": "25",
+            "w": "11",
+            "d": "6",
+            "l": "8",
+            "gf": "34",
+            "ga": "27",
+            "gd": "7",
+            "pts": "39",
+            "last_5": [
+              "loss",
+              "win",
+              "win",
+              "tie",
+              "loss"
+            ]
+          },
+          {
+            "team": {
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39e014540d04f4493e5e6aac6823374cb7abf861a459ea2dc62e07a9efd54a02c98006f4e401ef2774759fb45bca6d82.png",
+              "name": "Atlético Mineiro"
+            },
+            "pos": "9",
+            "mp": "23",
+            "w": "8",
+            "d": "9",
+            "l": "6",
+            "gf": "32",
+            "ga": "33",
+            "gd": "-1",
+            "pts": "33",
+            "last_5": [
+              "loss",
+              "tie",
+              "tie",
+              "loss",
+              "win"
+            ]
+          },
+          {
+            "team": {
+              "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/f3eaf6aef9caaf8c39e014540d04f4493e5e6aac6823374cb7abf861a459ea2d49aba56d4d5ca0340ef705ce7e9c0fc907283aec655d2b8f.png",
+              "name": "Internacional"
+            },
+            "pos": "10",
+            "mp": "22",
+            "w": "8",
+            "d": "8",
+            "l": "6",
+            "gf": "22",
+            "ga": "19",
+            "gd": "3",
+            "pts": "32",
+            "last_5": [
+              "win",
+              "loss",
+              "win",
+              "tie",
+              "win"
+            ]
+          }
+        ]
+      }
+    },
+    "knowledge_graph": {
+      "title": "CR Vasco da Gama",
+      "type": "8th in Série A",
+      "entity_type": "sports_team",
+      "main_tab_text": "Overview",
+      "kgmid": "/m/019mcm",
+      "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/019mcm&hl=en-US&q=CR+Vasco+da+Gama&shndl=0&shem=vslcea&source=sh/x/kp/osrp/m5/1",
+      "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F019mcm&q=CR+Vasco+da+Gama",
+      "tabs": [
+        {
+          "text": "Matches",
+          "si": "ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzakFLOj3UHVQrglyT5LbDXreSbV8RGnNpR0DexeUlzCJmBB9Wc_mEiAA1CTdO-ZRhPwcR1tdWAgU9dILYLU2X81rLgMU=",
+          "link": "https://www.google.com/search?si=ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzakFLOj3UHVQrglyT5LbDXreSbV8RGnNpR0DexeUlzCJmBB9Wc_mEiAA1CTdO-ZRhPwcR1tdWAgU9dILYLU2X81rLgMU=",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&si=ACC90nxHVIQmruDWnwTL6DMm0w-fRIRhUxoHPNsJnEnV8zCuM5KLSWnMImIlpppFk_AeipYNPv1FwwzpZBUBlVSSfdvbonUvznept0lvJfSshjU2m85FZvNhYYWz3dx8wDv5Gwv566dzjLlYPXYup3sib3lzakFLOj3UHVQrglyT5LbDXreSbV8RGnNpR0DexeUlzCJmBB9Wc_mEiAA1CTdO-ZRhPwcR1tdWAgU9dILYLU2X81rLgMU%3D"
+        },
+        {
+          "text": "Standings",
+          "si": "ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR5gsJh5WG0ofrPFVwScvL_H2jgcjm4hWS_SMTRt1sei59u-8CyHyyxljFgus9cyIWbFxUf5WNGFbp1gBXuVhHFLVPbupFmq9vpPIT0G3in6zWWOWUt",
+          "link": "https://www.google.com/search?si=ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR5gsJh5WG0ofrPFVwScvL_H2jgcjm4hWS_SMTRt1sei59u-8CyHyyxljFgus9cyIWbFxUf5WNGFbp1gBXuVhHFLVPbupFmq9vpPIT0G3in6zWWOWUt",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&si=ACC90nyax7V25SzASMUEK2PdykXUPwrfOR2-jwmZSRLnuSkHHSQ6Z-9J4947qVAreUPT1RCRQhCOSOUh8QtwnNXV_Sgx3Q_r2v2Vmxy3QJkXImDXNrPLheENWA5-UVwS1ZM7wndPWHAbNtD2Nq_TGxwPoRR5gsJh5WG0ofrPFVwScvL_H2jgcjm4hWS_SMTRt1sei59u-8CyHyyxljFgus9cyIWbFxUf5WNGFbp1gBXuVhHFLVPbupFmq9vpPIT0G3in6zWWOWUt"
+        },
+        {
+          "text": "Players",
+          "si": "ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc45SyzwYSSTrwUrGt98QW5HxMIvlcW55yrlq4du9F-8dwrBRB2RryuxUa0XhhwSNR-rH10ejtpxgy0nUj4kjUJzBBgaJQ=",
+          "link": "https://www.google.com/search?si=ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc45SyzwYSSTrwUrGt98QW5HxMIvlcW55yrlq4du9F-8dwrBRB2RryuxUa0XhhwSNR-rH10ejtpxgy0nUj4kjUJzBBgaJQ=",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&si=ACC90nyok0r2fdu_6qL464niuyhklHX5ZaD_EXfIewA4HkDrirLTkVVzYu4mPrWcC7G5zecXuwgiQ0zt-a6GOqnOsxNGXowfjAQJ5m9oZrzmf1HQQQAaZDFrPaaLcC8TFkbP7Efq0ZTL1-oCp8EJNjA0pwc45SyzwYSSTrwUrGt98QW5HxMIvlcW55yrlq4du9F-8dwrBRB2RryuxUa0XhhwSNR-rH10ejtpxgy0nUj4kjUJzBBgaJQ%3D"
+        }
+      ],
+      "description": "Club de Regatas Vasco da Gama, commonly referred to as Vasco da Gama or simply Vasco, is a sports club based in Rio de Janeiro, Brazil.",
+      "source": {
+        "name": "Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/CR_Vasco_da_Gama"
+      },
+      "manager": "Rafael Paiva",
+      "manager_links": [
+        {
+          "text": "Rafael Paiva",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Rafael+Paiva&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgIhmqKmZwZtYIO0Rh1GW_ZQTXko-iC8thYTbpGM37Se7AUADYLVLjXY9fYRIJy9Rmpyk0MahO68BMwVZba08jYLAozUQiEDfW12p8-rJrgRFSqFyM4yLj_0xupE5DvlfvjquAai_5w9mwy80RNQ91uLPoJ9UmY65KgzKYsl0bPwEHEVYkQ%3D%3D&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAHoECCEQAg"
+        }
+      ],
+      "arena_stadium": "Estadio São Januário",
+      "arena_stadium_links": [
+        {
+          "text": "Estadio São Januário",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=S%C3%A3o+Janu%C3%A1rio&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L01u7GupRymIKjIIW0ROk43-6pT9RpYrLihziqVE7oeL4RC4Xyw4S6jRf4rInT9ArgfidVngoR0PoSgvQaK5OorwEFnlG8_KeL2T3bIrMiZzMz3uU4J736Bey_AnL_mGNOW2n43V2jAYnWo8PegmaqsDn-vo&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAHoECB0QAg"
+        }
+      ],
+      "founded": "August 21, 1898",
+      "leagues": "Campeonato Brasileiro Série A, Copa do Brasil, Campeonato Carioca",
+      "leagues_links": [
+        {
+          "text": "Campeonato Brasileiro Série A",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Campeonato+Brasileiro&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L-jrQ4hbM1-d0TcgLR0t0u_wHdCLvPgZqiGs_Du-B1g504S7i0EPfmVoDEz797cj_w4rabjD2OvhKFud7CYxR7ElGoBpEh63eAYQfn3kvS5blGveQ_4Or93itaQZSwoT1B4pq3tAwobjikQQ7XRK1BRBuVTRNVzyDDUiEAnl9c5YpbGCcs18IF2GQpSykL95rkv1A3jnlTh3kwFImZzNDbsGeyYJ8M-NUncr-LzgTTbvMHiuNA%3D%3D&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAHoECBsQAg"
+        },
+        {
+          "text": "Copa do Brasil",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Copa+do+Brasil&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L13UiWSjrv22Jrd9SeUSlYVvgz70F66yQK1iq2clgQVdS6_wBByZx_AGsXeeuGeE3TX1J1QFECp7E-8jxxS9nqiDURwzpK1BOY64N0GVCfb84OUhVfykdQF2afs2n0UuG-8ibRboLS1axfYibU2YBY5Aihp_6qxFGSyQ_bZ48JNDnP68zN-5AVM_6VNPxcQ_3yS3dINKqyg47CpAUry4f92ZZhFB7b3jtBOzeSc1S9ecrzjjuA%3D%3D&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAXoECBsQAw"
+        },
+        {
+          "text": "Campeonato Carioca",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Campeonato+Carioca&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L23kchPxgaaJQx08nzJ7QR3LRb1YixH9faCteJo_LUfKCjTChCW-9EKykEo3_7hdd9-CkGNzGqVchNWq9bRyunJ0hZBhR8jOgWPJBp4-WIM7nT3-01IYgdfBgnL723qwb9Ac7e49GYaJHZw80KU2tWWIgqQ8MZ5IKzQdAX6y4Dm2h0hFpX4pnjdiWgFiernSRrb1Ur9r899LwIDYLWaIZpwr7Kh0qK7B-rzjOeULmZ7r70LG4A%3D%3D&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAnoECBsQBA"
+        }
+      ],
+      "location": "Vasco da Gama, Rio de Janeiro, State of Rio de Janeiro, Brazil",
+      "location_links": [
+        {
+          "text": "Vasco da Gama, Rio de Janeiro, State of Rio de Janeiro, Brazil",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Vasco+da+Gama,+Rio+de+Janeiro&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQWYkJssTY8rcq7CoVy8ZbuAW-ezmtm2fxOimg5weL29fzjsaaXCptYa3RigqaGfg5htrGlRKtqmw9uwn-YoeLlq6BbtPMY2QwrpJLJp3nW5YreCd_Diy4IwPOpCpK-L6glKfZ-c_0qlQROUWUSQTOT0Xf5sUaE8dtI_caGoa0k1gF12cr8PMMf1-eL_UCarqEl62B7Y%3D&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAHoECBoQAg"
+        }
+      ],
+      "capacity": "21,880; 78,838",
+      "president": "Pedrinho",
+      "president_links": [
+        {
+          "text": "Pedrinho",
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Pedrinho&stick=H4sIAAAAAAAAAONgVuLUz9U3yDBPSzFcxMoRkJpSlJmXkQ8AtvadhxgAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QmxMoAHoECB4QAg"
+        }
+      ],
+      "players": [
+        {
+          "name": "Philippe Coutinho (Midfielder)",
+          "extensions": [
+            "Midfielder"
+          ],
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Philippe+Coutinho&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxTVLizY3itXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVsGAjMyczIKCVAXn_NKSzLyM_B2sjACfik5YXgAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QxA16BAggEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Philippe+Coutinho&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxTVLizY3itXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVsGAjMyczIKCVAXn_NKSzLyM_B2sjACfik5YXgAAAA",
+          "image": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/a1e19c7fdd3e4bdba08dfcf71fa6690bf13c4ea7a8f4c4b8e80398ee1bfccfbf.jpeg"
+        },
+        {
+          "name": "Dimitri Payet (Midfielder)",
+          "extensions": [
+            "Midfielder"
+          ],
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Dimitri+Payet&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxjQoLcuLNtXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVl6XzNzMkqJMhYDEytSSHayMAK06DdZaAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QxA16BAggEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Dimitri+Payet&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxjQoLcuLNtXSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVl6XzNzMkqJMhYDEytSSHayMAK06DdZaAAAA",
+          "image": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/a1e19c7fdd3e4bdba08dfcf71fa6690bf13c4ea7a8f4c4b8a829ce2f289bbd44.jpeg"
+        },
+        {
+          "name": "Pablo Vegetti (Forward)",
+          "extensions": [
+            "Forward"
+          ],
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Pablo+Vegetti&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxq8zKco2KtHSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVt6AxKScfIWw1PTUkpLMHayMAMacOkhaAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QxA16BAggEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Pablo+Vegetti&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4gIxq8zKco2KtHSyk630iwvyi0qKoVR8SWpirlVRfnFJalF8SUZpblJeYmZOfE5mcckiVt6AxKScfIWw1PTUkpLMHayMAMacOkhaAAAA",
+          "image": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/a1e19c7fdd3e4bdba08dfcf71fa6690bf13c4ea7a8f4c4b8efa8ee6799c3e050.jpeg"
+        },
+        {
+          "name": "Emerson Rodríguez (Midfielder)",
+          "extensions": [
+            "Midfielder"
+          ],
+          "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Emerson+Rodr%C3%ADguez&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4tVP1zc0zKiqLMgwyS7Q0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYhVxzU4uK8_MUgvJTig6vTS9NrdrByggAAX2nQ2IAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QxA16BAggEAk",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Emerson+Rodr%C3%ADguez&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5V4tVP1zc0zKiqLMgwyS7Q0slOttIvLsgvKimGUvElqYm5VkX5xSWpRfElGaW5SXmJmTnxOZnFJYtYhVxzU4uK8_MUgvJTig6vTS9NrdrByggAAX2nQ2IAAAA",
+          "image": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/a1e19c7fdd3e4bdba08dfcf71fa6690bf13c4ea7a8f4c4b878f39f7871567b9e.jpeg"
+        }
+      ]
+    },
+    "related_questions": [
+      {
+        "question": "What happened to Vasco da Gama FC?",
+        "snippet": "2022: Takeover by 777 Partners and return to Série A On 22 February 2022 it was announced that 777 Partners, a Miami-based private investment firm founded by Steven W. Pasko and Josh Wander, bought a controlling stake in Vasco da Gama.",
+        "title": "CR Vasco da Gama - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/CR_Vasco_da_Gama#:~:text=season%2C%20placing%20tenth.-,2022%3A%20Takeover%20by%20777%20Partners%20and%20return%20to%20S%C3%A9rie%20A,stake%20in%20Vasco%20da%20Gama.",
+        "displayed_link": "https://en.wikipedia.org › wiki › CR_Vasco_da_Gama",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVJzh82JYxsHzP92q_OKqd3XvrA__SjyCJQAVvun0KA&s",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWJ6bEtlWGxhV2t0UFVWRTBlbGxEU1hsR2JGaHBNMk5MZG5oZmR6VlVTR2c0YVd0VlVDMXZkRVJSU2xWU1ExRlBNMkpLU1d4U05sbDVSVUZmUVZSVGRIRnRMVWRRRWhaTU9HWmpXbkpZYzBoYWNXMDFUbTlRZEhGRFYyRlJHaUpCUmxoeVJXTnlUSGxNWmtkT1lsOVRjVFV6VTJwWWF6UTNkbkI0Ymtsb2EzUlIiLCJmY3YiOiIzIiwiZWkiOiJMOGZjWnJYc0hacW01Tm9QdHFDV2FRIiwicWMiOiJDaEJqY2lCMllYTmpieUJrWVNCbllXMWhFQUI5ZC1rR1B3IiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIFZhc2NvIGRhIEdhbWEgRkM/IiwibGsiOiJHaUYzYUdGMElHaGhjSEJsYm1Wa0lIUnZJSFpoYzJOdklHUmhJR2RoYldFZ1ptTSIsImJzIjoiYy1QeTRWSUt6MGdzVWNoSUxDaEl6VXROVVNqSlZ3aExMRTdPVjBoSlZIQlB6RTFVY0hPMmwzaGViYVFzcFZpT3JyQU1wakFkcERBdFdZQVJBQSIsImlkIjoiZmNfTDhmY1pyWHNIWnFtNU5vUHRxQ1dhUV8xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9vQkNreEJTa2M1U210UWJ6bEtlWGxhV2t0UFVWRTBlbGxEU1hsR2JGaHBNMk5MZG5oZmR6VlVTR2c0YVd0VlVDMXZkRVJSU2xWU1ExRlBNMkpLU1d4U05sbDVSVUZmUVZSVGRIRnRMVWRRRWhaTU9HWmpXbkpZYzBoYWNXMDFUbTlRZEhGRFYyRlJHaUpCUmxoeVJXTnlUSGxNWmtkT1lsOVRjVFV6VTJwWWF6UTNkbkI0Ymtsb2EzUlIiLCJmY3YiOiIzIiwiZWkiOiJMOGZjWnJYc0hacW01Tm9QdHFDV2FRIiwicWMiOiJDaEJqY2lCMllYTmpieUJrWVNCbllXMWhFQUI5ZC1rR1B3IiwicXVlc3Rpb24iOiJXaGF0IGhhcHBlbmVkIHRvIFZhc2NvIGRhIEdhbWEgRkM%2FIiwibGsiOiJHaUYzYUdGMElHaGhjSEJsYm1Wa0lIUnZJSFpoYzJOdklHUmhJR2RoYldFZ1ptTSIsImJzIjoiYy1QeTRWSUt6MGdzVWNoSUxDaEl6VXROVVNqSlZ3aExMRTdPVjBoSlZIQlB6RTFVY0hPMmwzaGViYVFzcFZpT3JyQU1wakFkcERBdFdZQVJBQSIsImlkIjoiZmNfTDhmY1pyWHNIWnFtNU5vUHRxQ1dhUV8xIn0%3D"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "CR Vasco da Gama",
+        "link": "https://en.wikipedia.org/wiki/CR_Vasco_da_Gama",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/CR_Vasco_da_Gama&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECDkQAQ",
+        "displayed_link": "https://en.wikipedia.org › wiki › CR_Vasco_da_Gama",
+        "thumbnail": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef8438b94e12b4dbad0148b6561c00e1e4.png",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef6550ac0de57b1ea0f1b5822070668d8f.png",
+        "snippet": "Vasco da Gama Club of Rowing, commonly referred to as Vasco da Gama or simply Vasco, is a sports club based in Rio de Janeiro, Brazil.",
+        "snippet_highlighted_words": [
+          "Vasco da Gama",
+          "Vasco da Gama"
+        ],
+        "source": "Wikipedia"
+      },
+      {
+        "position": 2,
+        "title": "Vasco da Gama",
+        "link": "https://vasco.com.br/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://vasco.com.br/&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECDUQAQ",
+        "displayed_link": "https://vasco.com.br",
+        "snippet": "Calendário ; Copa do Brasil 2024. Rodada Quartas de Final (volta). Athletico Paranaense · Vasco ; Campeonato Brasileiro 2024. Rodada 25. Flamengo · Vasco.",
+        "snippet_highlighted_words": [
+          "Vasco",
+          "Vasco"
+        ],
+        "source": "Vasco.com.br"
+      },
+      {
+        "position": 3,
+        "title": "Vasco da Gama Scores, Stats and Highlights",
+        "link": "https://www.espn.com/soccer/team/_/id/3454/vasco-da-gama",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.espn.com/soccer/team/_/id/3454/vasco-da-gama&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECE0QAQ",
+        "displayed_link": "https://www.espn.com › soccer › team › vasco-da-gama",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef8d76535d5e9310e2603a0b1fd10af9ee.png",
+        "snippet": "Visit ESPN for Vasco da Gama live scores, video highlights, and latest news. Find standings and the full 2024 season schedule.",
+        "snippet_highlighted_words": [
+          "Vasco da Gama"
+        ],
+        "source": "ESPN"
+      },
+      {
+        "position": 4,
+        "title": "Clube de Regatas Vasco da Gama - Club profile - Transfermarkt",
+        "link": "https://www.transfermarkt.us/clube-de-regatas-vasco-da-gama/startseite/verein/978",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.transfermarkt.us/clube-de-regatas-vasco-da-gama/startseite/verein/978&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECEoQAQ",
+        "displayed_link": "https://www.transfermarkt.us › ver...",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef9cd37c784fc85b420fbc01dec7ac0d42.jpeg",
+        "snippet": "Squad Clube de Regatas Vasco da Gama ; 96. Paulo Henrique. Right-Back. 28 ; 20. Juan Sforza. Defensive Midfield. 22 ; 25. Club Athletico Paranaense · Hugo Moura.",
+        "snippet_highlighted_words": [
+          "Vasco da Gama"
+        ],
+        "source": "transfermarkt.us"
+      },
+      {
+        "position": 5,
+        "title": "Football, Brazil: Vasco live scores, results, fixtures",
+        "link": "https://www.flashscore.com/team/vasco/2RABlYFn/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flashscore.com/team/vasco/2RABlYFn/&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECEwQAQ",
+        "displayed_link": "https://www.flashscore.com › team › vasco",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332efd499dc56ccbe54c5108909dba4660557.png",
+        "snippet": "Club de Regatas Vasco da Gama page on Flashscore.com offers livescore, results, standings and match details (goal scorers, red cards, …).",
+        "snippet_highlighted_words": [
+          "Vasco da Gama"
+        ],
+        "source": "Flashscore.com"
+      },
+      {
+        "position": 6,
+        "title": "CR Vasco da Gama - Results, fixtures, squad, statistics, ...",
+        "link": "https://us.soccerway.com/teams/brazil/cr-vasco-da-gama/321/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://us.soccerway.com/teams/brazil/cr-vasco-da-gama/321/&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECE4QAQ",
+        "displayed_link": "https://us.soccerway.com › brazil",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332eff3a16f3762f39712314f0793759b1881.png",
+        "date": "Apr 9, 2024",
+        "snippet": "CR Vasco da Gama ; Fax: +55 (21) 2580 0488 ; E-mail: contato@crvascodagama.com ; Name: Estádio São Januário ; City: Rio de Janeiro, Rio de Janeiro ...",
+        "snippet_highlighted_words": [
+          "CR Vasco da Gama"
+        ],
+        "source": "Soccerway"
+      },
+      {
+        "position": 7,
+        "title": "Vasco live score, schedule & player stats",
+        "link": "https://www.sofascore.com/team/football/vasco-da-gama/1974",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sofascore.com/team/football/vasco-da-gama/1974&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECEsQAQ",
+        "displayed_link": "https://www.sofascore.com › ... › Brasileirão Série A",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef31808797c05124612347ac624ec815a8.png",
+        "snippet": "Vasco will play the next match against Athletico on Sep 12, 2024, 12:30:00 AM UTC in Copa do Brasil. When the match starts, you will be able to follow Athletico ...",
+        "snippet_highlighted_words": [
+          "Vasco"
+        ],
+        "source": "Sofascore"
+      },
+      {
+        "position": 8,
+        "title": "Vasco da Gama Brazil Serie A Standings",
+        "link": "https://www.foxsports.com/soccer/vasco-da-gama-team-standings",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foxsports.com/soccer/vasco-da-gama-team-standings&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECFAQAQ",
+        "displayed_link": "https://www.foxsports.com › soccer › vasco-da-gama-te...",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMj1uy3lItZ0ozrymN9f-s4LLVNbimutThlU0BQFeBTA&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef7ce3113204ffe53688fba0746421d81b.png",
+        "snippet": "Vasco da Gama Brazil Serie A standings, conference rankings, updated Vasco da Gama records and playoff standings ... VASCO DA GAMA 10-4-10 · 8TH IN BRAZIL ...",
+        "snippet_highlighted_words": [
+          "Vasco da Gama",
+          "Vasco da Gama",
+          "VASCO DA GAMA"
+        ],
+        "source": "FOX Sports"
+      },
+      {
+        "position": 9,
+        "title": "CR Vasco Da Gama - Cape Town",
+        "link": "https://www.facebook.com/VascoDaGama.SA/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/VascoDaGama.SA/&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECE8QAQ",
+        "displayed_link": "10.8K+ followers",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4NRFUJk-5Xv3hfIOVG2I-CNs_0hbXXC3AhVnZlAGzpw&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef3ba0fc17af31854b871d1b6255d1c734.png",
+        "snippet": "Vasco Da Gama is a Cape Town football club playing in the CTTFA amateur local leagues catering for: - foundation phase (u7 till u11) - juniors (u12 till ...",
+        "snippet_highlighted_words": [
+          "Vasco Da Gama"
+        ],
+        "source": "Facebook · CR Vasco Da Gama - Cape Town"
+      },
+      {
+        "position": 10,
+        "title": "Club de Regatas Vasco da Gama - FutFanatics",
+        "link": "https://www.futfanatics.net/brazilian-teams/rio-de-janeiro/vasco-da-gama",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.futfanatics.net/brazilian-teams/rio-de-janeiro/vasco-da-gama&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QFnoECGEQAQ",
+        "displayed_link": "https://www.futfanatics.net › rio-de-janeiro › vasco-da-g...",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkySwSWVD9h2gwVAp63oZgl_VrVsXMoubvqNL23ww1nw&usqp=CAE&s",
+        "favicon": "https://serpapi.com/searches/66dcc72f1a5b540303e432cb/images/d5e8357addc8afd280026fc9c19332ef6a1e274fb8a6e65d8e5814387528150f.png",
+        "snippet": "Shop all Soccer Gear of Club de Regatas Vasco da Gama Available at FutFanatics Web Store. Delivery World-Wide Shipping With Order Tracking and ...",
+        "snippet_highlighted_words": [
+          "Vasco da Gama"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "price": 8,
+              "currency": "$ to $",
+              "unknown": 28
+            },
+            "extensions": [
+              "$8 to $64",
+              "‎28",
+              "day returns"
+            ]
+          }
+        },
+        "source": "futfanatics.net"
+      }
+    ],
+    "places_sites": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4
+      },
+      {
+        "position": 5
+      },
+      {
+        "position": 6
+      }
+    ],
+    "top_stories_link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=CR+Vasco+da+Gama&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5VQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXAOUghLLE7OV0hJVHBPzE3cwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0AAXsE33YAAAA&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0QzO0BKAR6BAgiEBM",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+Vasco+da+Gama&stick=H4sIAAAAAAAAAONgFuLUz9U3MLTMTc5VQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iFXAOUghLLE7OV0hJVHBPzE3cwcp4i02Softpj7GNJFuF4LTmxieeRxQ_zn23pUS-lB0AAXsE33YAAAA",
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "CR Vasco da Gama players",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=CR+Vasco+da+Gama+players&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAhvEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+Vasco+da+Gama+players"
+      },
+      {
+        "block_position": 1,
+        "query": "CR Vasco da Gama standings",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=CR+Vasco+da+Gama+standings&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAhuEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+Vasco+da+Gama+standings"
+      },
+      {
+        "block_position": 1,
+        "query": "Vasco da Gama FC Jersey",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Vasco+da+Gama+FC+Jersey&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAhxEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Vasco+da+Gama+FC+Jersey"
+      },
+      {
+        "block_position": 1,
+        "query": "Vasco da Gama FC famous players",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Vasco+da+Gama+FC+famous+players&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAh1EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Vasco+da+Gama+FC+famous+players"
+      },
+      {
+        "block_position": 1,
+        "query": "Cr Vasco da Gama basketball",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Cr+Vasco+da+Gama+basketball&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAhwEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Cr+Vasco+da+Gama+basketball"
+      },
+      {
+        "block_position": 1,
+        "query": "Cr Vasco da Gama games",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Cr+Vasco+da+Gama+games&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAhzEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Cr+Vasco+da+Gama+games"
+      },
+      {
+        "block_position": 1,
+        "query": "Vasco da Gama FC South Africa",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=Vasco+da+Gama+FC+South+Africa&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAh0EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=Vasco+da+Gama+FC+South+Africa"
+      },
+      {
+        "block_position": 1,
+        "query": "How did Vasco da Gama died",
+        "link": "https://www.google.com/search?sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&q=How+did+Vasco+da+Gama+died&sa=X&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q1QJ6BAh3EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=How+did+Vasco+da+Gama+died"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=10&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8NMDegQIBBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=10&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAE",
+        "3": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=20&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAG",
+        "4": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=30&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAI",
+        "5": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=40&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAK",
+        "6": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=50&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAM",
+        "7": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=60&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAO",
+        "8": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=70&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAQ",
+        "9": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=80&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAS",
+        "10": "https://www.google.com/search?q=CR+vasco+da+gama&sca_esv=9533a4b00f6b0fff&sca_upv=1&hl=en&gl=us&ei=L8fcZrXsHZqm5NoPtqCWaQ&start=90&sa=N&filter=0&sstk=AagrsujwT2qiWoJkn-xaFNMZd05eL5rb_oqdJa4CmE7MM_MUZRAWNU4k28hwMsaAmF7k3TA4LvbogA37jpCwpEngzCwIkrsj4vFOUQ&ved=2ahUKEwj1v9Hy5LGIAxUaE1kFHTaQJQ0Q8tMDegQIBBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&filter=0&gl=us&google_domain=google.com&hl=en&q=CR+vasco+da+gama&start=90"
+      }
+    }
+  }
