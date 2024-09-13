@@ -16,13 +16,13 @@ PASSWORD = os.getenv("BLUESKY_PASSWORD")
 API_PARAMS = {
     "api_key": API_KEY,
     "engine": "google",
-     "q": "CR vasco da gama",
+     "q": "CR vasco da gama jogos",
      "location": "Brazil",
      "google_domain": "google.com.br",
      "gl": "br",
      "hl": "pt",
      "no_cache": "true",
-     "device": "mobile"
+     "device": "desktop"
 }
 STANDINGS_PARAMS = {
     "api_key": API_KEY,
@@ -46,25 +46,26 @@ def fetch_teamdata_from_serpapi():
     results = search.get_dict()
 
     sports_results = results.get("sports_results", {})
+    print(sports_results)
     return {
         "sports_results": sports_results
     }
 
 def fetch_standings_from_serpapi():
-    search = GoogleSearch(API_PARAMS)
+    search = GoogleSearch(STANDINGS_PARAMS)
     results = search.get_dict()
-
-    web_results = results.get("web_results", [])
+    league_standings = results.get("sports_results", {}).get("league", {}).get("standings", [])
+    print(league_standings)
     return {
-        "web_results": web_results
+        "web_results": league_standings
     }
 def fetch_news_from_serpapi():
     search = GoogleSearch(NEWS_PARAMS)
     results = search.get_dict()
 
-    top_stories = results.get("top_stories", [])
+   
     return {
-        "top_stories": top_stories
+        "top_stories": results
     }
 
 def fetch_standings_from_local_files():
@@ -109,7 +110,9 @@ def fetch_standings_from_local_files():
 
 def get_team_and_news_info():
     results = fetch_teamdata_from_serpapi()
-    standings_data = fetch_standings_from_local_files()
+    standings_data = fetch_standings_from_serpapi()
+    print(standings_data)
+    print(results)
     if not results:
         print("Nenhum resultado encontrado.")
         return None, None, None, None, None, None, None, None
@@ -314,7 +317,7 @@ def post_news_to_bluesky():
             if is_valid_url(image):
                 text_builder.link(f"📷 {image}\n", image)
     
-            client.send_post(text=text_builder)
+         #   client.send_post(text=text_builder)
             print(f"Postado com sucesso: {text_builder}")
         except Exception as e:
             print(f"Erro ao postar: {e}")
@@ -326,7 +329,6 @@ def schedule_jobs():
     while True:
         schedule.run_pending()
         time.sleep(60)
-
-   
+  
 if __name__ == "__main__":
-    schedule_jobs()   
+    schedule_jobs()
